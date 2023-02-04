@@ -7,4 +7,11 @@
 
 
 ## Introduce
-안녕하세용
+
+Hello.
+I am a game developer who studies a lot for the game I want to make.
+UnityDevelopment is the main.
+
+안녕하세요.
+저는 만들고 싶은 게임을 위해 많은 것을 공부하는 게임개발자입니다.
+유니티개발이 주입니다.
