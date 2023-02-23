@@ -26,7 +26,7 @@
  ILCode
 </p>
 
-## Introduce (20230205)
+## Introduce (20230223)
 
 Hello.
 I am a game developer who studies a lot for the game I want to make.  
@@ -39,7 +39,7 @@ who has not completed the game because there are many skills I want to do and le
 프로그래밍외에도 애니메이션, 그림관련 기술쪽도 관심있게 보고 있습니다.  
 또한 좀더 많은 노하우를 얻기 노력하는 게임개발자이기도 합니다. 그 노하우로 더 맛깔난 게임을 만들기 위해서 입니다.
 기존까지는 개인 디스코드에 공부 및 수집하고 연구한 자료들을 카테고리별로 정리를 해두었습니다.  
-하지만 최근 취업트렌드, 자기어필 시대에 맞게 새롭게 공부하고 연구하는것들에 대한 자료들을 깃허브IO에 올리려합니다.  
+하지만 최근 취업트렌드, 자기어필 시대에 맞게 새롭게 공부하고 연구하는것들에 대한 자료들을 노션에 올리려합니다.  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44671731/216790710-ce67fa8f-574b-480d-9f46-507964ff46df.png" width="20%" height="20%"/>
 <img src="https://user-images.githubusercontent.com/44671731/216791041-0d101e59-3142-4186-8282-7e5ded42a7a7.png" width="20%" height="20%"/>
