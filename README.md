@@ -41,6 +41,8 @@ who has not completed the game because there are many skills I want to do and le
 기존까지는 개인 디스코드에 공부 및 수집하고 연구한 자료들을 카테고리별로 정리를 해두었습니다.  
 하지만 최근 취업트렌드, 자기어필 시대에 맞게 새롭게 공부하고 연구하는것들에 대한 자료들을 노션에 올리려합니다.  
 
+
+(헛. 메타데이터가 포함됫을것. 그렇게 크지않다..!)
 ![image](https://github.com/lLcrowe/lLcrowe/assets/44671731/ff298bd0-384d-41d2-ab79-d1be9f0b519a)
 
 <p align="center">
