@@ -26,7 +26,7 @@
  ILCode
 </p>
 
-## Introduce (20230223)
+## Introduce (20231101)
 
 Hello.
 I am a game developer who studies a lot for the game I want to make.  
