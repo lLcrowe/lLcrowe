@@ -28,9 +28,9 @@
 
 ## Introduce (20231101)
 
-Hello.
-I am a game developer who studies a lot for the game I want to make.  
-who has not completed the game because there are many skills I want to do and learn while developing one-person development for about 4 years.   
+Hello, I am a game developer who studies a lot for the game I want to make.
+Since there are many technologies I want to make while developing one person for about four years, I am a game developer who has neglected to develop games while studying and learning those technologies.
+So I'm making a game with Popol to fix the idea of making a product and put it into practice.
 
 안녕하세요.
 저는 만들고 싶은 게임을 위해 많은 것을 공부하는 게임개발자입니다.  
