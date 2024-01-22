@@ -29,16 +29,17 @@
 ## Introduce
 
 Hello.
-I am a game developer who studies a lot for the games I want to make.
-It started in 2018 and there are many skills I want to make while developing one person, so I develop games by exploring and learning those skills.
-Recently, I've been making games to realize the idea that let's make a product.
 
-In addition to programming, I am also interested in animation and painting. I like subculture (neural cloud, blue archive) and so on.
+Since 2018,  develop games by exploring and learning the skills necessary for games that i make while developing games by alone.  
+Recently, I've been making games to realize the idea that let's make a product.  
 
+In addition to programming, I am also interested in animation and painting. 
+I like subculture (neural cloud, blue archive), survival, shooting, strategy, infiltration genre, etc.
 
 안녕하세요.
-저는 만들고 싶은 게임을 위해 많은 것을 공부하는 게임개발자입니다.   
-2018년부터 시작했고 1인개발을 하면서 만들고 싶은 기술들이 많다보니 그런 기술들을 탐구하고 익히면서 게임을 개발합니다.  
-최근에 와서 상품을 만들자. 라는 생각을 실천하기 위해 게임을 만들고 있습니다.  
 
-프로그래밍외에도 애니메이션, 그림 분야도 관심있게 보고 있습니다. 서브컬처류(뉴럴클라우드, 블루아카이브)등을 좋아합니다.
+2018년부터는 혼자서 게임을 개발하면서 만드는 게임에 필요한 기술을 탐색하고 배우면서 게임을 개발합니다.
+최근에는 제품을 만들자는 아이디어를 실현하기 위해 게임을 만들고 있습니다.
+
+프로그래밍 외에도 애니메이션과 그림에도 관심이 있습니다.
+서브컬처(뉴럴 클라우드, 블루 아카이브), 서바이벌, 촬영, 전략, 잠입 장르 등을 좋아합니다.
