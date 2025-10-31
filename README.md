@@ -28,18 +28,14 @@
 
 ## Introduce
 
-Hello.
+Since 2018, I’ve been developing games on my own — learning and exploring the technologies needed to create the kinds of games I want to make.
+Recently, I’ve been focusing on turning my ideas into tangible products through game development.
 
-Since 2018,  develop games by exploring and learning the skills necessary for games that i make while developing games by alone.  
-Recently, I've been making games to realize the idea that let's make a product.  
-
-In addition to programming, I am also interested in animation and painting. 
-I like subculture (neural cloud, blue archive), survival, shooting, strategy, infiltration genre, etc.
-
-안녕하세요.
+In addition to programming, I’m also interested in building game worlds through animation and illustration.
+I enjoy subculture-style games (such as Neural Cloud and Blue Archive), as well as survival, shooting, strategy, and stealth genres.
 
 2018년부터는 혼자서 게임을 개발하면서 만드는 게임에 필요한 기술을 탐색하고 배우면서 게임을 개발합니다.
 최근에는 제품을 만들자는 아이디어를 실현하기 위해 게임을 만들고 있습니다.
 
-프로그래밍 외에도 애니메이션과 그림에도 관심이 있습니다.
-서브컬처(뉴럴 클라우드, 블루 아카이브), 서바이벌, 촬영, 전략, 잠입 장르 등을 좋아합니다.
+프로그래밍 외에도 애니메이션과 그림등 게임의 세계관을 만드는데 관심이 있습니다.
+서브컬처(뉴럴 클라우드, 블루 아카이브), 서바이벌, 슈팅, 전략, 잠입 장르 등을 좋아합니다.
