@@ -39,3 +39,5 @@ I enjoy subculture-style games (such as Neural Cloud and Blue Archive), as well 
 
 프로그래밍 외에도 애니메이션과 그림등 게임의 세계관을 만드는데 관심이 있습니다.
 서브컬처(뉴럴 클라우드, 블루 아카이브), 서바이벌, 슈팅, 전략, 잠입 장르 등을 좋아합니다.
+
+~~돈을 많이 벌어서 좋아하는 작가한테 덕질..?~~
