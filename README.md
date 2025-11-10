@@ -25,7 +25,10 @@
 <img src="https://user-images.githubusercontent.com/44671731/216786416-cb0cc59a-d85c-4532-9c5c-191fa87f73b8.png" width="15" height="15"/> Spine, 
  ILCode
 </p>
+
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lLcrowe/FSMScript)
+
+
 ## Introduce
 
 Since 2018, I’ve been developing games on my own — learning and exploring the technologies needed to create the kinds of games I want to make.
